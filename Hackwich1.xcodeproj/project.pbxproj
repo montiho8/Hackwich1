@@ -14,6 +14,7 @@
 		8C0FED6528BF868300F97E60 /* Hackwich1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0FED6428BF868300F97E60 /* Hackwich1Tests.swift */; };
 		8C0FED6F28BF868300F97E60 /* Hackwich1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0FED6E28BF868300F97E60 /* Hackwich1UITests.swift */; };
 		8C0FED7128BF868300F97E60 /* Hackwich1UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0FED7028BF868300F97E60 /* Hackwich1UITestsLaunchTests.swift */; };
+		8C4CBDC528BF8A7C008DB615 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C4CBDC428BF8A7C008DB615 /* Storyboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		8C0FED6A28BF868300F97E60 /* Hackwich1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Hackwich1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C0FED6E28BF868300F97E60 /* Hackwich1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich1UITests.swift; sourceTree = "<group>"; };
 		8C0FED7028BF868300F97E60 /* Hackwich1UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hackwich1UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		8C4CBDC428BF8A7C008DB615 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		8C0FED4728BF868300F97E60 = {
 			isa = PBXGroup;
 			children = (
+				8C4CBDC428BF8A7C008DB615 /* Storyboard.storyboard */,
 				8C0FED5228BF868300F97E60 /* Hackwich1 */,
 				8C0FED6328BF868300F97E60 /* Hackwich1Tests */,
 				8C0FED6D28BF868300F97E60 /* Hackwich1UITests */,
@@ -233,6 +236,7 @@
 			files = (
 				8C0FED5B28BF868300F97E60 /* Preview Assets.xcassets in Resources */,
 				8C0FED5828BF868300F97E60 /* Assets.xcassets in Resources */,
+				8C4CBDC528BF8A7C008DB615 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
